@@ -8,5 +8,5 @@ Technologies used:
 - Docker
 
 Description:
-Small demo crypto exchange management software which allows for users to keep track of their previous exchanges.
+Small demo crypto portfolio software which allows for users to keep track of their previous exchanges.
 Allows for registering of users, creating transaction, viewing the history of transactions and accessing the real time value of crypto values through a 3rd party API.
